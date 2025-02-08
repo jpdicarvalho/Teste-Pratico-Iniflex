@@ -3,7 +3,7 @@
 Este repositório contém a soluções para uma de desafios técnicos utilizando a linguagem **Java**. Portanto, o desafio foi resolvido em um arquivo único chamado Main.java, tendo em vista que o método ```public static void main(String[] args)```, é o ponto de entrada do programa e, por isso, o File deve ter o mesmo nome da classe principal (Main) que contém esse método.
 
 ## Como Executar os Códigos
-Para facilitar o teste do programa, optei por resolver todo o problema em um único arquivo, possibilitando a execução em qualquer IDE, o que para esse cenário é bem mais prático. Portando, selecionei o compilador online JDoodle como ferramenta de teste.
+Para facilitar o teste do programa, optei por resolver todo o problema em um único arquivo, possibilitando a execução em qualquer IDE, o que para esse cenário é bem mais prático. Desse modo, selecionei o compilador online JDoodle como ferramenta de teste.
 
 ### Compilador Online JDoodle
 Para maior conveniência, o código pode ser execultado diretamente JDoodle, facilitando todo o processo de teste. Para isso, basta seguir os seguintes passos:
