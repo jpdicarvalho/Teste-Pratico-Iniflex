@@ -9,7 +9,7 @@ Para facilitar o teste do programa, optei por resolver todo o problema em um ún
 Para maior conveniência, o código pode ser execultado diretamente JDoodle, facilitando todo o processo de teste. Para isso, basta seguir os seguintes passos:
 
 #### #Step 1
-Acessar o Compilador Online [JDoodle](https://www.jdoodle.com/online-java-compiler) ou pesquisar por 'JDoodle' em qualquer navegador.
+- Acessar o Compilador Online [JDoodle](https://www.jdoodle.com/online-java-compiler) ou pesquisar por 'JDoodle' em qualquer navegador.
 
 #### #Step 2
 - Copiar e colocar o código do arquivo 'Main.java' no JDoodle.
